@@ -1,0 +1,7 @@
+# Datasets
+
+- **scikit-learn dataset doc**: https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset — - [California Housing dataset (scikit-learn docs)]. Found in: `docs/HANDBOOK.md`, `notebooks/google_tabfm_regression_tutorial.ipynb`
+- **scikit-learn dataset doc**: https://scikit-learn.org/stable/datasets/real_world.html#forest-covertypes — - [Covertype dataset (UCI / scikit-learn)]. Found in: `docs/HANDBOOK.md`, `notebooks/mitra_classification_tutorial.ipynb`, `notebooks/tabpfn_v3_classification_tutorial.ipynb`, `notebooks/xgboost_classification_tutorial.ipynb`
+- **NYC TLC Trip Record Data**: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page — [NYC TLC Trip Record Data] / [dataset on OpenML (id 42208)](https://www.openml.org/d/42208). Found in: `docs/HANDBOOK.md`, `notebooks/catboost_regression_tutorial.ipynb`, `notebooks/lightgbm_regression_tutorial.ipynb`, `notebooks/tabiclv2_regression_tutorial.ipynb`
+- **OpenML 1590**: https://www.openml.org/d/1590 — - [UCI Adult / Census Income dataset on OpenML]. Found in: `docs/HANDBOOK.md`, `notebooks/google_tabfm_classification_tutorial.ipynb`
+- **OpenML 42208**: https://www.openml.org/d/42208 — [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) / [dataset on OpenML (id 42208)]. Found in: `docs/HANDBOOK.md`, `notebooks/catboost_regression_tutorial.ipynb`, `notebooks/lightgbm_regression_tutorial.ipynb`, `notebooks/tabiclv2_regression_tutorial.ipynb`
