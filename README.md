@@ -174,3 +174,5 @@ That repo is left as-is; this one supersedes it in scope.
 [MIT](LICENSE) for the code and documentation in this repository. See
 ["Model licenses"](#model-licenses--read-before-any-commercial-use) above for the pretrained
 weights each notebook uses.
+
+<p align="center">Made with ❤️ by Ahmad Mujtaba</p>
